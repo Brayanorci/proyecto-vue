@@ -1,3 +1,8 @@
+## Autor
+- Nombre: Brayan Lopez Orci 
+- Email: a23311020@uthermosillo.edu.mx
+- GitHub: [@Brayanorci](https://github.com/Brayanorci)
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
